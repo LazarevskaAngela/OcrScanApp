@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OcrScanApp</string>
+    <string name="btn_name">Run Scanner</string>
+
+    <string name="amount_title">Amount Title</string>
+    <string name="amount_msg">Amount Message</string>
+
+    <string name="from_title">From Title</string>
+    <string name="from_msg">From Message</string>
+
+    <string name="to_title">To Title</string>
+    <string name="to_msg">To Message</string>
+</resources>
